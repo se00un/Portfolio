@@ -1,0 +1,13 @@
+# 작업용 문서 (사이트에서 사용하지 않음)
+BRIEF.md
+
+# OS / 에디터
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# 로컬 도구
+.claude/
+node_modules/
