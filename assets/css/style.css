@@ -563,7 +563,7 @@ a.tl-event:hover .tl-ev-text strong { color: var(--accent); }
 .work-media {
   aspect-ratio: 16 / 10;
   border: 1px solid var(--line);
-  background: var(--paper);
+  background: #f5f3ee; /* hero 이미지 배경색과 동일 → 여백 띠가 보이지 않음 */
   overflow: hidden;
   border-radius: var(--radius);
 }
