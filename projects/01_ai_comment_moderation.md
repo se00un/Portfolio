@@ -368,7 +368,7 @@ Blocking은 표현 개선 효과는 상대적으로 제한적이었지만 단순
 
 # 10. My Contribution
 
-**End-to-End Individual Project**
+**End-to-End Team Project**
 
 프로젝트의 전 과정을 수행했습니다.
 
